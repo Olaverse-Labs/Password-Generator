@@ -1,5 +1,7 @@
 # Password Generator API
 
+[![Olaverse API](https://img.shields.io/badge/Olaverse-API%20Doc-blue?style=flat-square)](https://www.olaverse.co.uk/password-generator-api) [![Try on Vibeland](https://img.shields.io/badge/Vibeland-Try%20Live-orange?style=flat-square)](https://www.vibeland.co.uk/tools/password-generator)
+
 This is a simple FastAPI-based API for generating random passwords.
 
 ## Setup
